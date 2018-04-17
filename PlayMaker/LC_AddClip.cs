@@ -1,4 +1,5 @@
 ﻿//Darkhitori ver# 1.0
+// __ECO__ __PLAYMAKER__ __ACTION__
 using UnityEngine;
 using System.Collections;
 
